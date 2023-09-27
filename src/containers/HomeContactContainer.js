@@ -11,24 +11,21 @@ const HomeContactContainer = () => {
             <Section.FlexItem width="70%">
               <Section.SubTitle size="1">Contact Us</Section.SubTitle>
               <Section.Text>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non,
-                nemo dolorem amet cupiditate sequi cum?
+                Drop us a line! We’ll set up a time to chat over the phone or
+                in-person to know more about your Real estate needs. All primary
+                conferences are free of charge.
               </Section.Text>
               <Section.Flex>
                 <Section.FlexItem width="50%">
                   <Section.SubTitle>We Will Get In Touch</Section.SubTitle>
-                  <Section.Text>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Non,
-                  </Section.Text>
+                  <Section.Text>Let's talk about what you want</Section.Text>
                 </Section.FlexItem>
                 <Section.FlexItem width="50%">
                   <Section.SubTitle>
                     Get Instant Support From Us
                   </Section.SubTitle>
                   <Section.Text>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Non,
+                    Need assistance? please fill the form
                   </Section.Text>
                 </Section.FlexItem>
               </Section.Flex>
@@ -50,7 +47,8 @@ const HomeContactContainer = () => {
                     name=""
                     id=""
                     cols="30"
-                    rows="10"></Form.TextArea>
+                    rows="10"
+                  ></Form.TextArea>
                 </Form.FormGroup>
 
                 <Form.FormGroup>
