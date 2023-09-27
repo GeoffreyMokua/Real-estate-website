@@ -32,15 +32,15 @@ const ProfileContainer = () => {
           <Profile.BioTop>
             <Form.FormGroup>
               <Form.Label>Name</Form.Label>
-              <Form.Input type="text" value="Kevin Caster" />
+              <Form.Input type="text" value="Caleb Mokaya" />
             </Form.FormGroup>
             <Form.FormGroup>
               <Form.Label>Email</Form.Label>
-              <Form.Input type="text" value="caster@gmail.com" />
+              <Form.Input type="text" value="calebmokaya@gmail.com" />
             </Form.FormGroup>
             <Form.FormGroup>
               <Form.Label>Phone</Form.Label>
-              <Form.Input type="text" value="+2547564867" />
+              <Form.Input type="text" value="+254724002308" />
             </Form.FormGroup>
             <Form.FormGroup>
               <Form.Label>Address</Form.Label>
