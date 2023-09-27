@@ -7,7 +7,7 @@ const FooterContainer = () => {
       <Footer.Container>
         <Footer.Content>
           <Footer.Item>
-            <Footer.Title>Real Home</Footer.Title>
+            <Footer.Title>HOMEVOP</Footer.Title>
             <Footer.Text>
               1337 Tengecha Road,Nairobi.Imarisha Tower, Second Floor, Room 135
             </Footer.Text>
@@ -99,7 +99,7 @@ const FooterContainer = () => {
       </Footer.Container>
       <Footer.Bottom>
         <Footer.Container>
-          <Footer.Text>&copy; Real Home. All Rights Reserved</Footer.Text>
+          <Footer.Text>&copy; HOMEVOP. All Rights Reserved</Footer.Text>
         </Footer.Container>
       </Footer.Bottom>
     </Footer>
