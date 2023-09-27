@@ -64,8 +64,7 @@ const HeaderContainer = ({ bg, source }) => {
           <Jumbotron.Left>
             <Jumbotron.Title>Find The Home You Deserve With Us</Jumbotron.Title>
             <Jumbotron.Text>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat,
-              exercitationem.
+              Improving the Lives of Real Estate Investors and Residents.
             </Jumbotron.Text>
           </Jumbotron.Left>
           <Jumbotron.Right>
