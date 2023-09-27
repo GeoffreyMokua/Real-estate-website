@@ -9,20 +9,20 @@ const FooterContainer = () => {
           <Footer.Item>
             <Footer.Title>HOMEVOP</Footer.Title>
             <Footer.Text>
-              1337 Tengecha Road,Nairobi.Imarisha Tower, Second Floor, Room 135
+              133 University Way,Nairobi.Delta Tower, Third Floor, Room 305
             </Footer.Text>
             <Footer.List>
               <Footer.ListItem>
                 <Footer.Icon name="fas fa-phone-alt" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+254724002308</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="fab fa-whatsapp" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+254721977832</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="far fa-envelope" social="true" />
-                <Footer.Text>realhome@gmail.com</Footer.Text>
+                <Footer.Text>info@homevop.com</Footer.Text>
               </Footer.ListItem>
             </Footer.List>
           </Footer.Item>
