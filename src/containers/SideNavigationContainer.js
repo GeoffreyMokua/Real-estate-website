@@ -1,5 +1,6 @@
 import React from "react";
 import { SideNavigation } from "../components";
+import Logo from "../components/logo";
 
 import links from "../constants/routes/nav-links";
 
@@ -22,7 +23,9 @@ const SideNavigationContainer = ({
           />
         </SideNavigation.Cross>
         <SideNavigation.Header>
-          <SideNavigation.Title>HOMEVOP</SideNavigation.Title>
+          <SideNavigation.Title>
+            <Logo />
+          </SideNavigation.Title>
           <SideNavigation.Text>The Home You Deserve</SideNavigation.Text>
         </SideNavigation.Header>
 
@@ -35,11 +38,11 @@ const SideNavigationContainer = ({
                 </SideNavigation.Anchor>
               </SideNavigation.ListItem>
             ))}
-            <SideNavigation.ListItem>
+            {/* <SideNavigation.ListItem>
               <SideNavigation.Anchor to="/add-listing">
                 Add Listing
               </SideNavigation.Anchor>
-            </SideNavigation.ListItem>
+            </SideNavigation.ListItem> */}
           </SideNavigation.List>
         </SideNavigation.Links>
       </SideNavigation.Container>

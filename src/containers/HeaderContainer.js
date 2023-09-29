@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import links from "../constants/routes/nav-links";
 import { HeaderWrapper, Banner, Jumbotron } from "../components";
+import Logo from "../components/logo";
 
 import { AdvancedSearchContainer, SideNavigationContainer } from "./index";
 
@@ -29,7 +30,7 @@ const HeaderContainer = ({ bg, source }) => {
         <HeaderWrapper.Container>
           <HeaderWrapper.Title bg={bg}>
             <HeaderWrapper.Link bg={bg} fixed={fixed} to="/">
-              HOMEVOP
+              <Logo />
             </HeaderWrapper.Link>
           </HeaderWrapper.Title>
           <HeaderWrapper.LinksContainer>
@@ -44,9 +45,9 @@ const HeaderContainer = ({ bg, source }) => {
             </HeaderWrapper.List>
             <HeaderWrapper.List>
               <HeaderWrapper.Item>
-                <HeaderWrapper.Anchor to="/add-listing" special="true">
+                {/* <HeaderWrapper.Anchor to="/add-listing" special="true">
                   Add Listing
-                </HeaderWrapper.Anchor>
+                </HeaderWrapper.Anchor> */}
               </HeaderWrapper.Item>
             </HeaderWrapper.List>
             <HeaderWrapper.List side="side">

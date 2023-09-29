@@ -7,7 +7,7 @@ const FooterContainer = () => {
       <Footer.Container>
         <Footer.Content>
           <Footer.Item>
-            <Footer.Title>HOMEVOP</Footer.Title>
+            <Footer.Title>HOMEDECOR</Footer.Title>
             <Footer.Text>
               133 University Way,Nairobi.Delta Tower, Third Floor, Room 305
             </Footer.Text>
