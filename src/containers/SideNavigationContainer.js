@@ -23,9 +23,7 @@ const SideNavigationContainer = ({
           />
         </SideNavigation.Cross>
         <SideNavigation.Header>
-          <SideNavigation.Title>
-            <Logo />
-          </SideNavigation.Title>
+          <SideNavigation.Title>HOMEDECOR</SideNavigation.Title>
           <SideNavigation.Text>The Home You Deserve</SideNavigation.Text>
         </SideNavigation.Header>
 
