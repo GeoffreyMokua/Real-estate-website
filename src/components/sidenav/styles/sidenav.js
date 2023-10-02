@@ -7,7 +7,7 @@ const Side = styled.div`
   top: 0px;
   left: 0px;
   height: 100vh;
-  background-color: #1e224a;
+  background-color: #e8db7b;
   color: var(--bs-white);
   z-index: 99;
   overflow: hidden;
