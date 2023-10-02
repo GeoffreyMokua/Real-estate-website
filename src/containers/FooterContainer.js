@@ -1,5 +1,6 @@
 import React from "react";
 import { Footer } from "../components";
+import Logo from "../components/logo";
 
 const FooterContainer = () => {
   return (
@@ -7,7 +8,9 @@ const FooterContainer = () => {
       <Footer.Container>
         <Footer.Content>
           <Footer.Item>
-            <Footer.Title>HOMEDECOR</Footer.Title>
+            <Footer.Title>
+              <Logo />
+            </Footer.Title>
             <Footer.Text>
               133 University Way,Nairobi.Delta Tower, Third Floor, Room 305
             </Footer.Text>

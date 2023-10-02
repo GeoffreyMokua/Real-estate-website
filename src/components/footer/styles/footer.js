@@ -2,7 +2,7 @@ import styled from "styled-components/macro";
 import { Link } from "react-router-dom";
 
 export const Container = styled.div`
-  background-color: #1e224a;
+  background-color: #6e3832;
   color: var(--bs-white);
 `;
 export const InnerContainer = styled.div`
@@ -35,7 +35,7 @@ export const Item = styled.div`
 export const Title = styled.h2`
   color: var(--bs-white);
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 24px 0px;
 `;
 export const Subtitle = styled.h2`
