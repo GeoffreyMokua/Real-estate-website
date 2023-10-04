@@ -9,7 +9,7 @@ const agents = [
   {
     id: 1,
     name: "Kevin Caster",
-    email: "kevinn@gmail.com",
+    email: "kevicaster@gmail.com",
     phone: "+2572067895",
     address: "P.O BOX 2456 Nairobi",
     county: "Nairboi",
@@ -17,7 +17,7 @@ const agents = [
     photo: "agent2.jpg",
 
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "Kevin Caster is a highly motivated, results-driven Sales Agent with over 10 years of experience in developing and executing successful sales strategies. He is skilled in customer relationship management, product promotion and market research. He is organized and has excellent communication and problem solving skills.",
     social: {
       facebook: "https://www.facebook.com/kevin.caster.9655/",
       instagram: "https://www.facebook.com/kevin.caster.9655/",
@@ -33,7 +33,7 @@ const agents = [
         price: price(35000),
         location: "Mombasa",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "This 3 Bedroom W/ 2 Full Bathroom Ranch Home Is Immaculate & Full Of Upgrades! Enjoy The Open Floor Plan W/ Vaulted 15ft Ceilings & Large Windows Throughout. The Beautiful Kitchen Is The Heart Of The Home Complete With Large Customized Granite Island & Stainless Steel Appliances. Updated Lighting Throughout The Entire Home.",
         images: ["image2.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -74,7 +74,7 @@ const agents = [
         price: price(35000),
         location: "Nakuru",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "Boasting an array of sleek finishes and a thoughtful open plan layout, this immaculate 3-bedroom, 2-bathroom condo is a paradigm of contemporary living. Features of this 531 sq. ft. home include wide plank engineered hardwood floors, huge Pella windows with western exposure, central heating and cooling, and a convenient washer/dryer hook-up. Beyond a functional entryway space the home flows into a luminous, open- concept living, dining, and kitchen area.",
         images: ["image8.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -113,12 +113,12 @@ const agents = [
     id: 2,
     name: "Priscilla Frankson",
     email: "priscilla@gmail.com",
-    phone: "+2572067895",
+    phone: "+25798765342",
     address: "P.O BOX 2456 Nairobi",
     county: "Kisumu",
     town: "Kisumu",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "Courteous Sales Agent adept at working with people. Proficient at answering questions promoting new products and services and helping customers have a satisfying experience. Specialize in problem solving and industry standard customer service procedures.",
     social: {
       facebook: "https://www.facebook.com/kevin.caster.9655/",
       instagram: "https://www.facebook.com/kevin.caster.9655/",
@@ -135,7 +135,7 @@ const agents = [
         price: price(35000),
         location: "Mombasa",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "Stunning large late two bedroom contemporary home with soaring ceilings and windows, split levels, great floor plan including open dining and living room. Located in the beautiful hilly and treed, desirable Windmill Hill section of Ngong you are conveniently located to shops, dining, and 20 minutes to downtown Nairobi.",
         images: ["image2.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -176,7 +176,7 @@ const agents = [
         price: price(35000),
         location: "Nakuru",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "Perfectly set on a tree-shaded lot, this one bedroom feels like home the minute you pull up. The living room is warm and inviting, centered by a wood-burning fireplace and built-in shelving. A spacious breakfast area looks out to the backyard and flows into the kitchen, where you’ll find a breakfast bar, double oven and built-in cook top. The master bedroom is large with no lack of storage, including a separate walk-in closet and additional dual closets.",
         images: ["image8.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -215,12 +215,12 @@ const agents = [
     id: 3,
     name: "Joram Davies",
     email: "joram@gmail.com",
-    phone: "+2572067895",
+    phone: "+25712450876",
     address: "P.O BOX 2456 Nairobi",
     county: "Nairboi",
     town: "Nairobi",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "Successful licensed real estate sales and customer service professional well-versed in communicating with different individuals and negotiating successful solutions. Focused on offering superior customer",
     social: {
       facebook: "https://www.facebook.com/kevin.caster.9655/",
       instagram: "https://www.facebook.com/kevin.caster.9655/",
@@ -237,7 +237,7 @@ const agents = [
         price: price(35000),
         location: "Mombasa",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "Excellent little home superbly located right off Old Nakuru Road!! 3 bedrooms, 2 baths, with a covered back patio. The home also features a water softener, refrigerator, clothes washer, and clothes dryer!!",
         images: ["image2.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -278,7 +278,7 @@ const agents = [
         price: price(35000),
         location: "Nakuru",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "This three-bedroom home was built in 2018 by noted local architect Archie Techt, and boasts clean lines and vintage woodwork. Located on the border of Westlands Park, the double lot looks directly into heavily wooded parkland, and your neighbors on either side are screened off by trees.",
         images: ["image8.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -315,14 +315,14 @@ const agents = [
   },
   {
     id: 4,
-    name: "Joram Davies",
-    email: "joram@gmail.com",
-    phone: "+2572067895",
+    name: "Jeff Kross",
+    email: "jeffkross@gmail.com",
+    phone: "+25717654589",
     address: "P.O BOX 2456 Nairobi",
     county: "Nairboi",
     town: "Nairobi",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "Results-driven and knowledgeable Sales Agent with 3+ years of extensive experience and comprehensive background in closing sales, providing professional support and service to customers, and producing detailed sales reports. ",
     social: {
       facebook: "https://www.facebook.com/kevin.caster.9655/",
       instagram: "https://www.facebook.com/kevin.caster.9655/",
@@ -339,7 +339,7 @@ const agents = [
         price: price(35000),
         location: "Mombasa",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "This luxurious Colonial features impeccable finishes throughout, from beautiful, original hardwood floors, to a gorgeous antique marble fireplace. The updated interiors feature a soft monochromatic palette and clean lines, and outside, the beautiful, landscaped lot is the work of the popular landscape architecture firm Richards Hooper.",
         images: ["image2.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
@@ -380,7 +380,7 @@ const agents = [
         price: price(35000),
         location: "Nakuru",
         description:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+          "This fully-renovated brick row home features heart pine hardwood floors and a full smart home system including a Nest thermostat and a Ring doorbell. In the chef’s kitchen, there are stainless steel Bosch appliances, travertine waterfall counters, and a Breville espresso machine. And upstairs, the ensuite master bath features twin Grohe basins.",
         images: ["image8.jpg", "image3.jpg", "image7.jpg", "image8.jpg"],
         amenities: [
           "Air Conditioning",
